@@ -1,0 +1,134 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.navbar-brand{
+  font-size: 2rem;
+  font-family: 'Pacifico', cursive;
+  color: black;
+}
+.navbar-brand:hover{
+  color: black;
+}
+.nav-link{
+  margin-right:40px;
+  margin-left: 10px;
+  font-family: 'Domine', serif;
+  color: black;
+  text-transform: uppercase;
+}
+.nav-link:hover{
+  color: black;
+}
+.search{
+  height: 40px;
+  width: 80%;
+  margin-right: -35px;
+  border-radius: 60px;
+  font-family: 'Domine', serif;
+  outline: none;
+  border: 2px solid rgb(248, 26, 92);
+}
+.btn0{
+  height: 40px;
+  width: 40%;
+  outline: none;
+  font-family: 'Domine', serif;
+  border: none;
+  border-radius: 60px;
+  background: rgb(248, 26, 92);
+  color: white;
+  font-weight: 700;
+}
+.main{
+  /* background: url(./images/pic2.jpg) no-repeat; */
+  background-size: cover;
+  height: 70vh;
+  background-position: 50% 50% ;
+  width: 100%;
+}
+.main h1{
+  font-size: 4rem;
+  font-weight: 700;
+  color:yellowgreen
+
+}
+.abcd{
+  background-image: url("../src/rest2/img/divbg2.jpg");
+  /* height: 400px; */
+  width: 100%;
+}
+.btn1{
+  height: 45px;
+  width: 35%;
+  border: none;
+  outline: none;
+  background-color: rgb(226, 51, 104);
+  color:white;
+  font-weight:700;
+  border-radius: 60px;
+}
+.btn1:hover{
+  background: rgb(111, 173, 103);
+  transition: 0.5s;
+}
+h1{
+  font-weight: 700;
+}
+.card:hover{
+  -webkit-box-shadow: 0px 9px 12px -1px rgba(0,0,0,0.94);
+-moz-box-shadow: 0px 9px 12px -1px rgba(0,0,0,0.94);
+box-shadow: 0px 9px 12px -1px rgba(0,0,0,0.94);
+transition: 0.5s;
+}
+.apple{
+  background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)),url(../src/images/food1.jpg)no-repeat;
+  background-size: cover;
+  height: 60vh;
+  width:100%;
+
+}
+.apple h1{
+  font-family: 'Pacifico', cursive;
+}
+.heading{
+  font-family: 'Unna', serif;
+}
+.abc:hover {
+  color:aqua
+}
