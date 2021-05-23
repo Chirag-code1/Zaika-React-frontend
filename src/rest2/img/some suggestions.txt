@@ -1,0 +1,30 @@
+
+BG:can be used for Header component/banner.
+logo: just in case
+
+Barbecue: can be used in the about component
+
+The next ones for the items/prices component/ shop
+Barbecue 1: 
+Name-BBQ Burger
+Description- We like our burgers piled sky-high. This version comes with our secret sauce , sweet and sour onions, emmental cheese, gherkins, frilly lettuce, and more
+
+Barbecue 2:
+Name-BBQ chilli chicken wings
+Description-These juicy wings are spiced with paprika, cumin, cayenne pepper and fresh oregano. Crisped up on the BBQ and served with a light yogurt sauce to feed a hungry horde.
+
+Barbecue 3:
+Name-Spicy BBQ Chicken kebabs
+Description: Definitely a dish worth firing up the BBQ for. Comes with a side of Grilled pineapple.
+
+Barbecue 4:
+Name-BBQ corn on the cob
+Description: Pep-up this grilled Mexican street snack with punchy Korean gochujang sauce and serve as a zingy side dish.
+
+Barbecue 5:
+Name-Paneer BBQ skewers with charred naans
+Description-Marinade paneer then thread onto skewers and grill on the BBQ alongside naans.
+
+Barbecue6:
+Name-Paneer Souvlaki
+Description-Souvlaki is a popular Greek fast food that consists of meat and vegetables grilled on a skewer. This is the vegetarian version.
